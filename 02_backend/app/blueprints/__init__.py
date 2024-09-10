@@ -1,0 +1,1 @@
+from app.blueprints.phone_blueprint import phones_blp
